@@ -4,7 +4,7 @@
 Hey connections currently persuing my bachelor degree in computer science and has a keen Interest in cyber security field.Worked on kali linux operating system with different tools.My specialition is in working on kali linux OS, HTML, CSS, JAVASCRIPT, BASICS OF PYTHON, JAVA , FRONTED DEVELOPMENT
 
 
-![MasterHead](https://blog.nezaboodka.com/static/752c2972d32d37de804d07b2ce181ca7/ec2a6/593.face.jpg)
+![MasterHead](https://img.freepik.com/premium-photo/faceless-hooded-hacker-showing-index-finger-gesture-hacker-man-with-laptop-attack-server-network-system-online-data-internet-security-hacking-concept-dark-binary-background_256259-2340.jpg?w=740)
 <h1 align="center">Hi 👋, I'm MOHIT KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="coding", width="400">
@@ -26,7 +26,7 @@ Hey connections currently persuing my bachelor degree in computer science and ha
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashwanisingh_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohitkumar1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitkumar1322" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-kumar-205101245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitkumar1322" height="30" width="40" /></a>
 <a href="https://instagram.com/mohit__k135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit__k135" height="30" width="40" /></a>
 </p>
 
