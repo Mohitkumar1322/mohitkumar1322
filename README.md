@@ -9,9 +9,9 @@ Hey connections currently persuing my bachelor degree in computer science and ha
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="coding", width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanisingh7930&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanisingh7930" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanisingh7930&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkumar1322" /> </p>
 
-<p align="left"> <a href="https://instagram.com/mohit__k135" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=instagram&style=for-the-badge" alt="mohit__k135" /></a> </p>
+<p align="left"> <a href="https://instagram.com/mohit__k135" target="blank"><img src="https://img.shields.io/twitter/follow/mohit___k135?logo=instagram&style=for-the-badge" alt="mohit__k135" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -25,7 +25,7 @@ Hey connections currently persuing my bachelor degree in computer science and ha
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashwanisingh_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/mohit-kumar-205101245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitkumar1322" height="30" width="40" /></a>
 <a href="https://instagram.com/mohit__k135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit__k135" height="30" width="40" /></a>
 </p>
