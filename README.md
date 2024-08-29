@@ -4,7 +4,7 @@
 Hey connections currently persuing my bachelor degree in computer science and has a keen Interest in cyber security field.Worked on kali linux operating system with different tools.My specialition is in working on kali linux OS, HTML, CSS, JAVASCRIPT, BASICS OF PYTHON, JAVA , FRONTED DEVELOPMENT
 
 
-![MasterHead](https://www.javatpoint.com/mern-stack)
+![MasterHead](https://www.freepik.com/free-vector/back-end-development-concept-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_26432583.htm#fromView=search&page=1&position=1&uuid=3472b030-f2f0-434f-ad81-d27cc7f34aa8)
 <h1 align="center">Hi 👋, I'm MOHIT KUMAR</h1>
 <h3 align="center">A passionate BAckend Developer from India</h3>
 <img align="right" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="coding", width="400">
