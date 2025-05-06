@@ -4,7 +4,6 @@
 Hey connections currently persuing my bachelor degree in computer science and has a keen Interest in cyber security field.Worked on kali linux operating system with different tools.My specialition is in working on kali linux OS, HTML, CSS, JAVASCRIPT, BASICS OF PYTHON, JAVA , FRONTED DEVELOPMENT
 
 
-![MasterHead](https://img.freepik.com/premium-photo/faceless-hooded-hacker-showing-index-finger-gesture-hacker-man-with-laptop-attack-server-network-system-online-data-internet-security-hacking-concept-dark-binary-background_256259-2340.jpg?w=740)
 <h1 align="center">Hi 👋, I'm MOHIT KUMAR</h1>
 <h3 align="center">A passionate BAckend Developer from India</h3>
 <img align="right" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="coding", width="400">
