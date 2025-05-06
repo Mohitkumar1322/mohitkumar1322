@@ -23,7 +23,8 @@ Hey connections currently persuing my bachelor degree in computer science and ha
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 ### 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohiitkumar?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohitkumar1322?theme=dark&ext=contest)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
