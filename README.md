@@ -64,15 +64,7 @@
 
 ---
 
-### 🧠 LeetCode & Coding Profile
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohiitkumar?theme=dark&ext=contest)
-<!-- Codeforces Rating Widget -->
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://cf.leed.at?id=mohit_13_k" width="400" alt="Codeforces Stats" />
-  </a>
-
----
+<p align="center"> <!-- LeetCode Card --> <img src="https://leetcard.jacoblin.cool/mohiitkumar?theme=dark&font=Fira+Code&ext=contest" width="400" alt="LeetCode Stats" /> <!-- Codeforces Card --> <a href="https://codeforces.com/profile/mohit_13_k" target="_blank"> <img src="https://cf.leed.at?id=mohit_13_k" width="400" alt="Codeforces Stats" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/LeetCode-150%2B%20Questions-orange?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Codeforces-Active%20Participant-blue?style=for-the-badge&logo=codeforces" /> </p>
 
 ### 🎓 Achievements & Involvements
 
