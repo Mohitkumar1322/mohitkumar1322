@@ -67,6 +67,10 @@
 ### 🧠 LeetCode & Coding Profile
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mohiitkumar?theme=dark&ext=contest)
+<!-- Codeforces Rating Widget -->
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img src="https://cf.leed.at?id=mohit_13_k" width="400" alt="Codeforces Stats" />
+  </a>
 
 ---
 
