@@ -25,7 +25,7 @@
 
 ### 🧑‍💻 My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,python,java,git,github,aws,linux,figma,vscode,bash)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,python,java,git,github,aws,linux,figma,vscode,typescript,docker,postman,sublime,azure,gcp,redux,bootstrap,tailwind)
 
 ---
 
@@ -65,6 +65,10 @@
 
 <p align="center"> <!-- LeetCode Card --> <img src="https://leetcard.jacoblin.cool/mohiitkumar?theme=dark&font=Fira+Code&ext=contest" width="400" alt="LeetCode Stats" /> <!-- Codeforces Card --> <a href="https://codeforces.com/profile/mohit_13_k" target="_blank"> <img src="https://cf.leed.at?id=mohit_13_k" width="400" alt="Codeforces Stats" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/LeetCode-150%2B%20Questions-orange?style=for-the-badge&logo=leetcode" /> <img src="https://img.shields.io/badge/Codeforces-Active%20Participant-blue?style=for-the-badge&logo=codeforces" /> </p>
 
+
+
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/your_codechef_username)
 ### 🎓 Achievements & Involvements
 
 - 🏆 **Cyber Warrior Intern** at Gurugram Cyber Police (Guided by Rakshit Tandon)
