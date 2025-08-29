@@ -57,7 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohitkumar1322&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohitkumar1322&theme=radical" alt="GitHub Streak" />
+ <img src="https://streak-stats.vercel.app?user=mohitkumar1322&theme=tokyonight" alt="GitHub Streak"/>
+
 </p>
 
 ---
