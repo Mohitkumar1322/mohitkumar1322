@@ -53,7 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohitkumar1322&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumar1322&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkumar1322&theme=radical&hide_border=true"/>
 </p>
