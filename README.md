@@ -31,11 +31,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔐 CyberEye (Kali Linux Project)
-> A Python-based GUI tool using Kali Linux tools for vulnerability scanning, network mapping, and hash cracking. Integrated with Nmap, Hydra, and Wireshark.
 
-#### 🧠 AI-Powered Waste Classifier (Hackathon Project)
-> Upload area images -> Classifies waste types -> Calculates CO2 level -> Points system + leaderboard using Flask, Gemini AI, NeonDB.
 
 #### 🌐 URL Shortener
 > Built with Node.js, Express, MongoDB. Generates short URLs with redirect tracking and analytics.
